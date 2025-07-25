@@ -254,14 +254,11 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 ## 👨‍💻 Author
 
-<div align="center">
-  <img src="https://github.com/Ahmadhammam03.png" width="100" height="100" style="border-radius: 50%;">
   
   **Ahmad Hammam**
   
   [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmad-hammam-1561212b2)
   [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Ahmadhammam03)
-</div>
 
 **Skills Demonstrated in This Project:**
 - Advanced Python programming and data analysis
