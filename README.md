@@ -1,11 +1,16 @@
 # 🎬 Movie Review Sentiment Analysis
 
 <div align="center">
+  
+  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmad-hammam-1561212b2)
+  [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Ahmadhammam03)
+
   <img src="https://img.shields.io/badge/Python-3.7+-blue.svg" alt="Python Version">
   <img src="https://img.shields.io/badge/NLTK-VADER-green.svg" alt="NLTK VADER">
   <img src="https://img.shields.io/badge/Accuracy-63.67%25-orange.svg" alt="Accuracy">
   <img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License">
   <img src="https://img.shields.io/badge/Status-Complete-brightgreen.svg" alt="Status">
+
 </div>
 
 <br>
