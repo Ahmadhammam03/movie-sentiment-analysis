@@ -7,7 +7,6 @@
   <img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License">
   <img src="https://img.shields.io/badge/Status-Complete-brightgreen.svg" alt="Status">
 </div>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue.svg)](https://www.linkedin.com/in/ahmad-hammam-1561212b2)
 
 <br>
 
