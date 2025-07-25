@@ -6,8 +6,8 @@
   <img src="https://img.shields.io/badge/Accuracy-63.67%25-orange.svg" alt="Accuracy">
   <img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License">
   <img src="https://img.shields.io/badge/Status-Complete-brightgreen.svg" alt="Status">
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue.svg)](https://www.linkedin.com/in/ahmad-hammam-1561212b2)
 </div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue.svg)](https://www.linkedin.com/in/ahmad-hammam-1561212b2)
 
 <br>
 
